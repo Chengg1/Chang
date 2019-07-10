@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1557290742 source:c:\users\ch4n\desktop\pe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<io.h>
+	<fcntl.h>
+	<wchar.h>
+	<psapi.h>
+
